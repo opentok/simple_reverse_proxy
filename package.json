@@ -10,7 +10,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.2",
-    "http-proxy-middleware": "^0.20.0",
+    "http-proxy-middleware": "^0.21.0",
     "lodash": "^4.17.21"
   }
 }
